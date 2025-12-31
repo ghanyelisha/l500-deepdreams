@@ -8,8 +8,8 @@
 https://l500-deepdreams.streamlit.app/
 
 ## Examples of Generated Images
-![alt text](https://github.com/ghanyelisha/DeepDream/blob/main/data/samples/robotsample.jpg?raw=true)
-![alt text](https://github.com/ghanyelisha/DeepDream/blob/main/data/samples/catsample.jpg?raw=true)
+![alt text](https://github.com/ghanyelisha/l500-deepdreams/blob/master/data/samples/catsample.jpg)
+![alt text](https://github.com/ghanyelisha/l500-deepdreams/blob/master/data/samples/robotsample.jpg)
 
 
 ## Table of Contents
