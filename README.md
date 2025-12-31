@@ -5,7 +5,7 @@
 
 ## Check out the live demo of the DeepDream Project here: DeepDream Web App
 
-https://dreamer-ai.streamlit.app/
+https://l500-deepdreams.streamlit.app/
 
 ## Examples of Generated Images
 ![alt text](https://github.com/ghanyelisha/DeepDream/blob/main/data/samples/robotsample.jpg?raw=true)
@@ -28,7 +28,7 @@ With this web application, you can upload your own images or use the pre-loaded 
 ## 2) Demo
 Check out the live demo of the DeepDream Project here: DeepDream Web App
 
-https://dreamer-ai.streamlit.app/
+https://l500-deepdreams.streamlit.app/
 
 ## 3) Features
 Upload your own images.
@@ -36,7 +36,7 @@ Control the layers and iterations of the DeepDream algorithm.
 Visualize and save the dreamy results.
 
 ## 4) How to Use
-Visit the live demo link: https://dreamer-ai.streamlit.app/
+Visit the live demo link: https://l500-deepdreams.streamlit.app/
 Once the web application loads, you will see the main interface.
 Click on the "Upload Image" button to select an image from your local machine.
 Adjust the "Layers" and "Iterations" sliders to customize the DeepDream effect.
