@@ -45,7 +45,7 @@ config['input'] = os.path.basename(config['input'])  # handle absolute and relat
 
 # Markdown
 st.title("Group DeepDream Project")
-st.write("### From Ghany Elisha (ghannyelisha@gmail.com)")
+# st.write("### From Ghany Elisha (ghannyelisha@gmail.com)")
 st.write("##### Connect on GitHub: https://github.com/ghanyelisha")
 
 st.write("#")
